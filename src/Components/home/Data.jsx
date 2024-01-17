@@ -58,8 +58,9 @@ const Data = () => {
 
       <h3 className="home__subtitle">Web Developer</h3>
       <p className="home__description">
-        I'm a fullstack web developer based in Cádiz, driven by passion and
-        dedicated to delivering creative and impactful digital solutions.
+        Passionate and dedicated junior fullstack developer based in Cádiz. A
+        creative and resourceful problem-solver, I bring a unique blend of
+        creativity and technical proficiency to every project I undertake.
       </p>
 
       <a href="#contact" className="button button--flex">

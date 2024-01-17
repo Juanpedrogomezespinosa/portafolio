@@ -17,7 +17,11 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Fullstack developer, I create web pages with BackEnd and FrontEnd
+            Fullstack developer with a knack for crafting dynamic web
+            experiences from BackEnd to FrontEnd. Proficient in database
+            management, I seamlessly integrate soft skills, such as proactive
+            problem-solving, effective communication, and collaborative
+            teamwork, into every project.
           </p>
 
           <a download="" href={CV} className="button button--flex">
