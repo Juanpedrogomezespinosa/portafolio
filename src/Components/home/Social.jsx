@@ -4,14 +4,6 @@ const Social = () => {
   return (
     <div className="home__social">
       <a
-        href="https://www.instagram.com/dj.juanpe/"
-        className="home__social-icon"
-        target="_blank"
-      >
-        <i className="uil uil-instagram"></i>
-      </a>
-
-      <a
         href="https://www.linkedin.com/in/juanpedroge/"
         className="home__social-icon"
         target="_blank"
