@@ -32,6 +32,7 @@ const Footer = () => {
             href="https://www.linkedin.com/in/juanpedroge/"
             className="home__social-icon"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <i className="uil uil-linkedin"></i>
           </a>
@@ -40,6 +41,7 @@ const Footer = () => {
             href="https://github.com/Juanpedrogomezespinosa"
             className="home__social-icon"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <i className="uil uil-github-alt"></i>
           </a>

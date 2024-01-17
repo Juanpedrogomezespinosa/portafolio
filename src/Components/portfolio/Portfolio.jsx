@@ -46,6 +46,7 @@ const Portfolio = () => {
                 href={link}
                 className="portfolio__description home__social-icon"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <i className="uil uil-github-alt"></i>
               </a>
