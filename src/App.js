@@ -7,6 +7,7 @@ import Skills from "./Components/skills/Skills";
 import Qualification from "./Components/qualification/Qualification";
 import Portfolio from "./Components/portfolio/Portfolio";
 import Contact from "./Components/contact/Contact";
+import Footer from "./Components/footer/Footer";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Qualification />
         <Portfolio />
         <Contact />
+        <Footer />
       </main>
     </>
   );
