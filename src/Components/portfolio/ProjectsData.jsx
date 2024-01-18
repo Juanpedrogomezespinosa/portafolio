@@ -14,31 +14,26 @@ export const ProjectsData = [
   {
     id: 2,
     image: Image2,
-    title: "Drive Boss Backend",
-    link: "https://github.com/Juanpedrogomezespinosa/disco-duro-backend",
+    title: "Drive Boss ",
+    link: "https://github.com/Juanpedrogomezespinosa/driveBoss",
   },
+
   {
     id: 3,
-    image: Image2,
-    title: "Drive Boss Frontend",
-    link: "https://github.com/Juanpedrogomezespinosa/disco-duro-frontend",
-  },
-  {
-    id: 4,
     image: Image3,
     title: "Drumkit",
     link: "https://drummaschine.netlify.app/",
   },
   {
-    id: 5,
-    image: Image4,
-    title: "Calculadora",
-    link: "https://github.com/Juanpedrogomezespinosa/Calculadora",
+    id: 4,
+    image: Image5,
+    title: "Price of electricity",
+    link: "https://github.com/Juanpedrogomezespinosa/PrecioDeLaLuz",
   },
   {
-    id: 6,
-    image: Image5,
-    title: "Precio Luz",
-    link: "https://github.com/Juanpedrogomezespinosa/PrecioDeLaLuz",
+    id: 5,
+    image: Image4,
+    title: "Calculator",
+    link: "https://github.com/Juanpedrogomezespinosa/Calculadora",
   },
 ];
